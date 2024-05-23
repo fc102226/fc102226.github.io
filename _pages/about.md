@@ -25,7 +25,8 @@ I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.ht
 
 My research interest includes speech synthesis, neural machine translation and automatic music generation. 
 
-I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffc102226%2Ffc102226.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
+I have published more than 50+ papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=QbTi47kAAAAJ'>google scholar citations <strong><span id='total_cit'>700+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=QbTi47kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
 
 
 # 🔥 News
