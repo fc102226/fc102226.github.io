@@ -15,24 +15,24 @@ repository               : "fc102226/fc102226.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : G-QbTi47kAAAAJ
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification : #b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
+bing_site_verification   : #B5AA590E7B9C03956A6F7DEC0F776211
+baidu_site_verification  : #code-ZxFK3f4pfb
 
 # Site Author
 author:
   name             : "Caixia Fu(扶彩霞)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  avatar           : "images/hh.png"
+  bio              : "University Of Electronic Science And Technology Of China"
+  location         : "Si Chuan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren@zju.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=QbTi47kAAAAJ"
+  email            : "caixia__fu@163.com"
+  researchgate     :  "https://www.researchgate.net/profile/Jiancheng-An-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -40,15 +40,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "fc102226"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : #"rayeren"
+  dblp             : #"https://dblp.org/pid/75/6568-6.html"
+  orcid            : #"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
