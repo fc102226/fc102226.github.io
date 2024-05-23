@@ -102,7 +102,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - ``ICML 2023`` [FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
   
 
-
 ## 📚 TOPIC 2
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/hh.png' alt="sym" width="100%"></div></div>
@@ -111,6 +110,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 [EEEEEEEEEEEEEEEEEEEEEEEEEE](https://arxiv.org/pdf/2305.08079), Zhenhui Ye, Tianyun Zhong, Yi Ren, et al. <span style="color:red">(Spotlight)</span>  [**Code**](https://github.com/JianchengAn/SIM-1-MIMO)
 </div>
 </div>
+
 
 - `AAAI 2024` [EEEEEEEEEEEEEEEEEEEEEEEEEE](https://arxiv.org/pdf/2305.08079), Rui Liu, Yifan Hu, **Yi Ren**, et al. 
 
@@ -126,10 +126,10 @@ Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
   - Advandced zero-shot voice cloning model.
 </div>
 </div>
+
  
 - ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
 - `AAAI 2024` [EEEEEEEEEEEEEEEEEEEEEEEEEE](https://arxiv.org/pdf/2305.08079), Rui Liu, Yifan Hu, **Yi Ren**, et al. 
-
 
 
 ## Others
