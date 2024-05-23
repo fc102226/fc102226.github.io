@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore. \
+I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore. 
 
 I am now working on audio-driven talking face generation, text-to-speech and music generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com). We are hiring interns!
 
@@ -42,7 +42,7 @@ I have published 50+ papers <a href='https://scholar.google.com/citations?user=4
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) 
+[ Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) <br>
 **Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -57,11 +57,10 @@ I have published 50+ papers <a href='https://scholar.google.com/citations?user=4
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) 
+[Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) <br>
 **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+  - This work is included by many famous speech synthesis open-source projects, such as .....
 </div>
 </div>
 
